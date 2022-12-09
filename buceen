@@ -12,12 +12,12 @@
   <script src="https://kit.fontawesome.com/4f3ce16e3e.js" crossorigin="anonymous"></script>
   
 <head>
-<title>Adit sayang rara</title>
+<title>SEPTI BANGSAT</title>
 </head>
 <body>
 	
    <!-- Ganti Audio di sini -->
-   <audio src="https://feeldreams.github.io/vibescorona.mp3" id="linkmp3" class="sembunyi"></audio>
+   <audio src="https://youtu.be/3KV15mDXpQI" id="linkmp3" class="sembunyi"></audio>
    
    <div id="bodyblur">
      <!-- Wallpaper --><img src="https://feeldreams.github.io/wp4.jpg" id="wallpaper"/><div id="beneranblur"></div>
@@ -28,7 +28,7 @@
      <div id="kadoIn">
        <!-- Tombol Surat --><img src="https://feeldreams.github.io/kadoin.png"/>
      </div>
-     <p id="ket">Klik Kadonya!</p>
+     <p id="ket">Klik Sep Kadonya buru !!</p>
 
      <div class="kumpulanstiker">
          <!-- Stiker untuk Konten -->
@@ -40,7 +40,7 @@
          <img src="https://feeldreams.github.io/smprt.gif" id="fotostiker6"/>
          <img src="https://feeldreams.github.io/ciumin.gif" id="fotostiker7"/>
      </div>
-     <p id="halo" class="halo">Hai, Kamu!</p>
+     <p id="halo" class="halo">Wei Septi!!</p>
      <!-- Konten Pesan Setelah Aksi -->
      <p id="halo2" class="halo">Sekian ✨</p>
      
@@ -52,14 +52,14 @@
      <div><blockquote id='bq' data-text='&#9829;'>
 
        <!-- Konten Pembukaan -->
-       <p id="kalimat">Aku Mau Nitip Pesan Nih...</p>
-       <p id="kalimatb">Makasii ya Udah Nemenin Aku Sampai Sejauh Ini ❤️</p>
-       <p id="kalimatc">Aku Bahagia Banget Bisa Dapetin Kamu.. ☺️</p>
-       <p id="kalimatd">Kamu Jangan Pergi yaa.. 🥺</p>
-       <p id="kalimate">Tetap Sama Aku Terus.. 🥺</p>
-       <p id="kalimatf">Gabole Sama yang Lain 🤬</p>
+       <p id="kalimat">Gua cuma mau Bilang.</p>
+       <p id="kalimatb">Kenapa kita ga berantem aja? 🖕🏻</p>
+       <p id="kalimatc">Jangan deh nyari yang kek lo susah anjir di cikiwul</p>
+       <p id="kalimatd">Btw gua cuma mau bilang... </p>
+       <p id="kalimate">Makasih banyak udah mau kenal sama gua</p>
+       <p id="kalimatf">Yok kita gelud! 😜</p>
        
-       <p id="opsL">Klik untuk Lanjut</p>
+       <p id="opsL">Klik disini buat Lanjutin</p>
        
      </blockquote></div>
 
@@ -67,7 +67,7 @@
      <div id="Tombol"><a id="By">&#128140; Balas</a></div>
 
      <!-- Pesan yang dikirim ke WhatsApp -->
-     <span id="pesanWA" class="sembunyi">Aww, GoodNight too!</span>
+     <span id="pesanWA" class="sembunyi">Ketik disini sep!</span>
      
    </div>
 
