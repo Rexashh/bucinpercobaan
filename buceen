@@ -12,7 +12,7 @@
   <script src="https://kit.fontawesome.com/4f3ce16e3e.js" crossorigin="anonymous"></script>
   
 <head>
-<title>VERA BGST</title>
+<title>HI KATE</title>
 </head>
 <body>
 	
@@ -28,7 +28,7 @@
      <div id="kadoIn">
        <!-- Tombol Surat --><img src="https://feeldreams.github.io/kadoin.png"/>
      </div>
-     <p id="ket">coba ver klik kadonya </p>
+     <p id="ket">coba Kate lu klik kadonya </p>
 
      <div class="kumpulanstiker">
          <!-- Stiker untuk Konten -->
@@ -54,10 +54,12 @@
        <!-- Konten Pembukaan -->
        <p id="kalimat">Gua cuma mau Bilang.</p>
        <p id="kalimatb">Kenapa kita ga berantem aja? 🖕🏻</p>
-       <p id="kalimatc">Lu pernah kenal ama gua emang?</p>
+       <p id="kalimatc">Lu cantik, Lucu lagi, jadi kurangin insecurenya ya</p>
        <p id="kalimatd">Btw gua cuma mau bilang... </p>
        <p id="kalimate">Makasih banyak udah mau kenal sama gua</p>
-       <p id="kalimatf">Sharelok kita berantem!</p>
+       <p id="kalimatf">"Sharelok kita berantem!</p>
+       <P id="kalimatg">"kalo aja gua berani mungkin gua udah suka sama lu</p>
+       <P id="kalimath">"tapi boong wkwkw"</p>
        
        <p id="opsL">Klik disini buat Lanjutin</p>
        
